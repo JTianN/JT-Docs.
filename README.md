@@ -18,3 +18,5 @@
 - git pull origin master
 # Check status
 - git remote -v
+# Make requirement file python
+- pip freeze > requirements.txt
