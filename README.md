@@ -1,10 +1,10 @@
 ####################################################
 # การ Upload ขึ้น GitHub
 -Initial เบื้องต้น
-1.git remote add origin https://github.com/USERNAME/NEW-REPO.git   (Copy จาก repo ที่สร้างไว้)
-2.git remote -v         --> ตรวจดู URL ตรงไหม
-3.git branch            --> เช็คว่า เป็น main,master
-4.git branch -M main     --> ตังชื่อ main
+-git remote add origin https://github.com/USERNAME/NEW-REPO.git   (Copy จาก repo ที่สร้างไว้)
+-git remote -v         --> ตรวจดู URL ตรงไหม
+-git branch            --> เช็คว่า เป็น main,master
+-git branch -M main     --> ตังชื่อ main
 # Upload file
 1.git add .
 2.git commit -m "Initial commit"
